@@ -8,7 +8,7 @@
     - "universe", "university"
         ["univers", "univers"]
 - Summary:
-    ![screenshot_01]()
+    ![screenshot_01](https://raw.githubusercontent.com/suereey/ChatBox_NLP_PyTorch/main/screen_shot/NLP_Pipline.PNG)
 ## Set up environment
 - Lei conda, build new enviornment in terminal: Lei_April2022
 - install pytorch

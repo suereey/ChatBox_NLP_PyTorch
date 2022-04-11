@@ -24,6 +24,11 @@ pip install nltk
 python train.py
 ```
 
-This will dump data.pth file. And then run
-
+Then run
+```
 python chat.py
+```
+
+## Resource.
+- I learned this chat box project from: https://www.youtube.com/watch?v=RpWeNzfSUHw&list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg&index=1
+- Future making chatbox GUI application: https://www.youtube.com/watch?v=RNEcewpVZUQ&list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg&index=5
