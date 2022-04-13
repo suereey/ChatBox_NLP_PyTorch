@@ -31,9 +31,11 @@ python chat.py
 
 ## Result
 - run in commend
+
 ![runincommend](https://raw.githubusercontent.com/suereey/ChatBox_NLP_PyTorch/main/screen_shot/Result.PNG)
 
 - AI Chatbot with GUI
+
 ![gui](https://raw.githubusercontent.com/suereey/ChatBox_NLP_PyTorch/Lei_GUI/screen_shot/GUI.PNG)
 ## Resource.
 - I learned this chat box project from: https://www.youtube.com/watch?v=RpWeNzfSUHw&list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg&index=1
