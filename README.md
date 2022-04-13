@@ -31,7 +31,6 @@ python chat.py
 
 ## Result
 - run in commend
-
 ![runincommend](https://raw.githubusercontent.com/suereey/ChatBox_NLP_PyTorch/main/screen_shot/Result.PNG)
 
 - AI Chatbot with GUI
